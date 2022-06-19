@@ -1,0 +1,6 @@
+setup.py
+Day3Binary.egg-info/PKG-INFO
+Day3Binary.egg-info/SOURCES.txt
+Day3Binary.egg-info/dependency_links.txt
+Day3Binary.egg-info/top_level.txt
+exercise/__init__.py
